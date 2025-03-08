@@ -12,5 +12,5 @@ My name is **Kevin Osioma**. I am a **Data Analyst Majoring in Healthcare and Bu
 
 ---
 🔗 **Find me on:**
-- [Medium](https://medium.com/@kevinmochama84)
+- [Medium](https://https://medium.com/@Kmochama)
 - [LinkedIn](www.linkedin.com/in/kevin-osioma-data-analyst-bi-healthcare)
