@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is **Kevin Osioma**. I am a **Business Data Analyst and BI Developer**.
+My name is **Kevin Osioma**. I am a **Business Intelligence Analyst and Power BI Developer**.
 
 - 🛠 I'm enhancing my data visualization techniques and storytelling abilities using data.
 - 🖥 I have mastered SQL, R, Python, Advanced Excel, and Power BI skills.
