@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is **Kevin Osioma**. I am a **Business Intelligence Analyst and Power BI Developer**.
+My name is **Kevin Osioma**. I am a **Business Analyst and Power BI Developer**.
 
 - 🛠 I'm enhancing my data visualization techniques and storytelling abilities using data.
 - 🖥 I have mastered SQL, R, Python, Advanced Excel, and Power BI skills.
@@ -12,5 +12,4 @@ My name is **Kevin Osioma**. I am a **Business Intelligence Analyst and Power BI
 
 ---
 🔗 **Find me on:**
-- [Medium](https://https://medium.com/@Kmochama)
-- [LinkedIn](www.linkedin.com/in/kevin-osioma-data-analyst-bi-healthcare)
+- [LinkedIn](www.linkedin.com/in/kevin-osioma-data-analyst-bi-insights)
