@@ -1,15 +1,90 @@
-## Hi there 👋 
 
-My name is **Kevin Osioma**. I am a **Business Analyst and Power BI Developer**.
 
-- 🛠 I'm enhancing my data visualization techniques and storytelling abilities using data.
-- 🖥 I have mastered SQL, R, Python, Advanced Excel, and Power BI skills.
-- 👀 I'm currently seeking employment opportunities in data-driven organizations.
-- 🤝 I'm looking for help with growth opportunities and employment.
-- 📫 How to reach me: osiomakevin79@gmail.com, +254727570080
-- 🌟 Fun fact: I love watching football and listening to music daily.
-- 😄 Pronouns: He/Him
+## Kevin Osioma
 
----
-🔗 **Find me on:**
-- [LinkedIn](www.linkedin.com/in/kevin-osioma-data-analyst-bi-insights)
+**Data Analyst | Big Data Engineer | BI Developer, Reliable Data Platforms for Data-Driven Decisions.**
+
+With a foundation in Data Analytics and Data Engineering, I bring a rigorous, systems-oriented mindset to data infrastructure. I specialize in designing cloud-native data pipelines, automating complex workflows, and championing documentation and reliability practices.
+
+## Core Competencies
+
+Data visualization techniques and data storytelling.
+
+SQL, R, Python, Advanced Excel, and Power BI skills.
+
+## Languages & Querying
+
+Python SQL Rust Shell Scripting
+
+Core scripting, systems programming, and advanced querying for data engineering.
+
+## Data Processing & Streaming
+
+Apache Spark Apache Kafka Databricks dbt
+
+Building robust batch and real-time data pipelines at scale.
+
+## Cloud & Data Platforms
+
+AWS Azure Snowflake
+
+Multi-cloud data architecture and modern data warehousing solutions.
+
+## APIs, Orchestration & Infrastructure
+
+FastAPI Flask Apache Airflow Docker Kubernetes
+
+Building data services and orchestrating reliable, production-grade workflows.
+
+## Engineering Practices & Tooling
+
+  .Orchestration & Workflow: Apache Airflow, Prefect, Dagster
+
+  . Data Transformation: dbt, SQL
+  
+  . Infrastructure & Deployment: Docker, Kubernetes, Terraform
+  
+  . CI/CD: GitHub Actions, Azure DevOps, Jenkins
+  
+  . Version Control: Advanced Git (history rewriting, secret management)
+  
+  . Monitoring & Reliability: Structured logging, metric validation, alerting
+  
+  . Documentation: Pipeline lineage, runbooks, data dictionaries
+
+## Featured Projects
+
+## Scalable Azure ELT Pipeline
+
+Designed and documented a cloud-based ELT pipeline on Azure (Data Factory, Databricks), automating ingestion from 10+ heterogeneous sources.
+
+**Impact:** Reduced manual reporting workload by 15+ hours/week with automated quality checks and alerting.
+
+**Key Challenge:** Handling schema evolution and partial failures gracefully across diverse source systems.
+
+## ❄️ Snowflake Data Platform Modernization
+
+Migrated legacy ETL processes to a Snowflake + dbt Cloud stack with incremental modeling.
+
+**Impact:** Improved data freshness from daily to near-real-time while cutting compute costs by ~20%.
+
+**Key Challenge:** Rewriting complex business logic with idempotent, incremental dbt models.
+
+## High-Performance Data Tooling (Rust)
+
+Exploring Rust for building memory-safe, high-throughput data processing utilities.
+Current Focus: CLI tools for data validation and pipeline health checks with native performance.
+
+## Connect & Collaborate
+
+Nairobi, Kenya | Open to Remote & Hybrid Opportunities
+
+Email: osiomakevin79@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/kevin-osioma-data-analyst-bi-insights/
+
+GitHub: https://github.com/KMochama
+
+Open to collaborating on interesting data infrastructure projects and discussions about data engineering, cloud architecture, or systems programming!
+
+Last Updated: January 2026
